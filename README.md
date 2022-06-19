@@ -20,4 +20,8 @@ Again the difference between the 5 star reviews for vine and non-vine reviews. T
 
 > - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-As you can see from the 
+As you can see from the chart above the 5 star vine review percentage is 0.3%, while the 5 star non-Vine percentage is 99.7%. 
+
+## Summary
+
+
