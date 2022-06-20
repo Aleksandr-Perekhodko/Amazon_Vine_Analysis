@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The following challange was a too show the cooperation between Google Colab, PySpark, SQL, and AWS to create a dataframe from the Amazon vine program service that has databases that shows paid and non paid reviews from this vine program. There were over 50 databses to choose from in this challange the one that was used was the Furniture reviews. The dataframes were created in a *.ipynb* file using Google Colab. Then we created a AWS RDS server and connected it to our PGAdmin and used the schema for our table and then imported our dataframes into our SQL databse.
+The following challange was a to show the cooperation between Google Colab, PySpark, SQL, and AWS to create a dataframe from the Amazon vine program service that has databases that shows paid and non paid reviews from this vine program. There were over 50 databses to choose from in this challange the one that was used was the Furniture reviews. The dataframes were created in a *.ipynb* file using Google Colab. Then we created a AWS RDS server and connected it to our PGAdmin and used the schema for our table and then imported our dataframes into our SQL databse.
 
 ## Results
 
